@@ -110,6 +110,11 @@ module exp_4b(df, bo, a, b, bin);
 
 endmodule
 ```
+
+Designed By: Karthic U
+
+Reg.No: 212224040151
+
 **RTL Schematic**
 
 
