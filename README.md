@@ -143,14 +143,16 @@ Reg.No: 212224040151
 
 
 
-![Screenshot 2025-04-09 153352](https://github.com/user-attachments/assets/f2fc268a-29d9-4715-af78-0325951b951e)
+![image](https://github.com/user-attachments/assets/892186a3-690c-40f9-9352-7b2dec76fea9)
 
 
 
 
 
 
-![Screenshot 2025-04-09 154527](https://github.com/user-attachments/assets/7563377c-3581-4935-a6b8-b3af6c73b2ee)
+
+![image](https://github.com/user-attachments/assets/9e75fcad-727d-4e48-99ca-23f0dccecf42)
+
 
 
 
